@@ -5,7 +5,7 @@ import playStoreImg from '../assets/playstore.png'
 
 const HeroSection = () => {
   return (
-    <section className="bg-white text-center py-16">
+    <section className="bg-white text-center pt-16 pb-0">
       <div className="max-w-4xl mx-auto px-4">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
           We Build <br /> <span className="text-indigo-600">Productive</span> Apps
