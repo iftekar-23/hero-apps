@@ -2,6 +2,8 @@
 import { createBrowserRouter } from "react-router";
 import Homes from "../Pages/Homes";
 import MainLayouts from "../Layouts/MainLayouts";
+import Apps from "../Pages/Apps";
+import Installation from "../Pages/Installation";
 
 
 const router = createBrowserRouter([
@@ -13,6 +15,14 @@ const router = createBrowserRouter([
             {
                 index:true,
                 Component: Homes,
+            },
+            {
+                path:'/apps',
+                element: <Apps></Apps>
+            },
+            {
+                path:'/installation',
+                element:<Installation></Installation>
             },
         ]
     }
