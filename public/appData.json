@@ -1,0 +1,290 @@
+[
+  {
+    "image": "https://i.imgur.com/1.png",
+    "title": "Photo Editor Pro",
+    "companyName": "PixelSoft",
+    "id": 1,
+    "description": "A professional photo editing app with filters, effects, and AI enhancements.",
+    "size": 85,
+    "reviews": 15420,
+    "ratingAvg": 4.6,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 9200 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/2.png",
+    "title": "TaskFlow",
+    "companyName": "NextGen Labs",
+    "id": 2,
+    "description": "Organize your daily tasks and boost productivity with smart reminders.",
+    "size": 40,
+    "reviews": 9200,
+    "ratingAvg": 4.2,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/3.png",
+    "title": "FitTrack",
+    "companyName": "Healthify Corp",
+    "id": 3,
+    "description": "Track your workouts, calories, and progress with personalized fitness insights.",
+    "size": 65,
+    "reviews": 21000,
+    "ratingAvg": 4.8,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 14900 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/4.png",
+    "title": "MusicMate",
+    "companyName": "RhythmSoft",
+    "id": 4,
+    "description": "Stream, download, and share music playlists with friends instantly.",
+    "size": 90,
+    "reviews": 8700,
+    "ratingAvg": 4.4,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 3600 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/5.png",
+    "title": "TravelGo",
+    "companyName": "TripZen",
+    "id": 5,
+    "description": "Book flights, hotels, and explore destinations around the world easily.",
+    "size": 75,
+    "reviews": 11500,
+    "ratingAvg": 4.5,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/6.png",
+    "title": "CodeLab IDE",
+    "companyName": "DevMatrix",
+    "id": 6,
+    "description": "A powerful mobile IDE for coding in multiple languages on the go.",
+    "size": 110,
+    "reviews": 13400,
+    "ratingAvg": 4.7,
+    "downloads": 2200000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 8300 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/7.png",
+    "title": "EduWorld",
+    "companyName": "SmartLearn",
+    "id": 7,
+    "description": "Learn new skills through interactive video lessons and quizzes.",
+    "size": 95,
+    "reviews": 9800,
+    "ratingAvg": 4.3,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4700 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/8.png",
+    "title": "Foodiez",
+    "companyName": "MealMagic",
+    "id": 8,
+    "description": "Order food online from your favorite restaurants and track delivery live.",
+    "size": 60,
+    "reviews": 16500,
+    "ratingAvg": 4.6,
+    "downloads": 9500000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/9.png",
+    "title": "WeatherPro",
+    "companyName": "SkyCast Inc",
+    "id": 9,
+    "description": "Get real-time weather updates and weekly forecasts with radar maps.",
+    "size": 55,
+    "reviews": 5300,
+    "ratingAvg": 4.1,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 1600 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/10.png",
+    "title": "BudgetBuddy",
+    "companyName": "FinSmart",
+    "id": 10,
+    "description": "Manage expenses, track savings, and plan your monthly budget easily.",
+    "size": 45,
+    "reviews": 7500,
+    "ratingAvg": 4.4,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 3100 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/11.png",
+    "title": "ChatLink",
+    "companyName": "Connectify",
+    "id": 11,
+    "description": "A modern chat and messaging app with privacy-first encryption.",
+    "size": 70,
+    "reviews": 18500,
+    "ratingAvg": 4.7,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/12.png",
+    "title": "NoteEase",
+    "companyName": "Thinkify",
+    "id": 12,
+    "description": "Take quick notes, set reminders, and sync your ideas across devices.",
+    "size": 30,
+    "reviews": 4200,
+    "ratingAvg": 4.0,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 1200 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/13.png",
+    "title": "GameArena",
+    "companyName": "PlayWorld",
+    "id": 13,
+    "description": "Discover trending games, watch live streams, and earn game rewards.",
+    "size": 120,
+    "reviews": 22200,
+    "ratingAvg": 4.8,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 16300 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/14.png",
+    "title": "DocuScan",
+    "companyName": "OfficeHub",
+    "id": 14,
+    "description": "Scan, convert, and manage documents easily with AI-powered OCR.",
+    "size": 50,
+    "reviews": 8000,
+    "ratingAvg": 4.5,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/15.png",
+    "title": "Readify",
+    "companyName": "BookNova",
+    "id": 15,
+    "description": "An ebook reader with personalized recommendations and offline access.",
+    "size": 80,
+    "reviews": 9200,
+    "ratingAvg": 4.6,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/16.png",
+    "title": "ShopEasy",
+    "companyName": "DealMart",
+    "id": 16,
+    "description": "Shop products online, compare prices, and get exclusive discounts.",
+    "size": 100,
+    "reviews": 17400,
+    "ratingAvg": 4.5,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 9400 }
+    ]
+  }
+]
