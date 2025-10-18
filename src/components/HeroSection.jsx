@@ -2,6 +2,7 @@ import React from 'react';
 import heroImage from '../assets/hero.png'; 
 import appStoreImg from '../assets/appstore.png'
 import playStoreImg from '../assets/playstore.png'
+import { Link } from 'react-router';
 
 const HeroSection = () => {
   return (
@@ -18,14 +19,14 @@ const HeroSection = () => {
 
    
         <div className="flex justify-center gap-4 mb-12">
-          <button className="btn btn-outline  ">
+          <Link to={'https://play.google.com/store/games?hl=en'} className="btn p-5 rounded-xl  ">
             <img src={playStoreImg} alt="" />
             <p>Google Play</p>
-          </button>
-          <button className="btn btn-outline ">
+          </Link>
+          <Link to={'https://www.apple.com/app-store/'} className="btn p-5 rounded-xl ">
             <img src={appStoreImg} alt="" />
-            <p>App Store</p>
-          </button>
+            <p className='ml-1'>App Store</p>
+          </Link>
         </div>
 
        
