@@ -31,7 +31,7 @@ const Navbar = () => {
                 <Link to="/" className="text-2xl font-bold">
                     <div className="flex items-center gap-1">
                         <img className="h-10" src={logoImg} alt="logo" />
-                        <p>HERO.IO</p>
+                        <p className='text-indigo-600 '>HERO.IO</p>
                     </div>
                 </Link>
             </div>
@@ -45,8 +45,8 @@ const Navbar = () => {
             </div>
 
             <div className="navbar-end">
-                <Link to="https://github.com/iftekar-23/hero-apps" className="btn">
-                    <div className="flex items-center gap-1.5 rounded-xl">
+                <Link to="https://github.com/iftekar-23/hero-apps" className="btn bg-gradient-to-r from-indigo-600 to-purple-600">
+                    <div className="flex items-center gap-1.5 rounded-xl text-white ">
                         <Github />
                         <p>Contribute</p>
                     </div>

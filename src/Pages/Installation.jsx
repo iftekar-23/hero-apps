@@ -20,7 +20,7 @@ const Installed = () => {
         return installedApps;
     })();
 
-    // ✅ Handle uninstall with toast
+    
     const handleUninstall = (id, title) => {
         removeInstalled(id);
         setInstalledApps((prev) => prev.filter((p) => p.id !== id));
@@ -33,7 +33,7 @@ const Installed = () => {
     return (
         <div className="min-h-screen bg-gray-50 py-14">
             <div className="max-w-6xl mx-auto px-4">
-                {/* Header */}
+               
                 <div className="text-center mb-10">
                     <h1 className="text-3xl font-bold text-gray-800">
                         Your Installed Apps
@@ -43,7 +43,7 @@ const Installed = () => {
                     </p>
                 </div>
 
-                {/* App Count + Sort */}
+            
                 <div className="flex justify-between items-center mb-6">
                     <h2 className="text-gray-700 font-semibold text-lg">
                         {sortedApps.length} Apps Found
@@ -63,7 +63,7 @@ const Installed = () => {
                     </div>
                 </div>
 
-                {/* Installed App Cards */}
+           
                 <div className="space-y-4">
                     {sortedApps.map((app) => (
                         <div

@@ -5,6 +5,7 @@ import MainLayouts from "../Layouts/MainLayouts";
 import Apps from "../Pages/Apps";
 import Installation from "../Pages/Installation";
 import AppCardDetails from "../Pages/AppCardDetails";
+import ErrorPage from "../Pages/ErrorPage";
 
 
 const router = createBrowserRouter([
@@ -12,6 +13,7 @@ const router = createBrowserRouter([
     {
         path: '/',
         element: <MainLayouts></MainLayouts>,
+        errorElement:<ErrorPage></ErrorPage>,
         children: [
             {
                 index: true,
