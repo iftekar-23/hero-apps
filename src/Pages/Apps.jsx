@@ -36,12 +36,19 @@ const Apps = () => {
             </div>
 
 
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 
-            my-6'>
-                {
-                    searchApps.map(app => (<AppCard key={app.id} app={app}></AppCard>))
-                }
-            </div>
+            {
+                searchApps.length > 0 ? (
+                    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 my-6'>
+                        {searchApps.map(app => (
+                            <AppCard key={app.id} app={app} />
+                        ))}
+                    </div>
+                ) : (
+                    <div className='flex justify-center items-center h-64 text-xl text-gray-500 font-semibold'>
+                        No apps found
+                    </div>
+                )
+            }
         </div>
     );
 };
