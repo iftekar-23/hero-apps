@@ -41,7 +41,6 @@ Md Iftakar Ahmed
 🛠️ Web Developer
 📧 aiftekar798@gmail.com
 
-📍 Baltimore
 
 
 🪪 License
