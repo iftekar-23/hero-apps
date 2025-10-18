@@ -1,16 +1,51 @@
-# React + Vite
+# 🦸‍♂️ HERO.IO - App Showcase Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Description
+**HERO.IO** is a modern web application that showcases all apps developed by the company in a clean, responsive, and interactive interface.  
+Users can explore trending apps, search by name, view detailed app information, install or uninstall apps (locally stored), and track installation history.  
+The project focuses on user experience, performance, and clean component-based architecture.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🏠 **Home Page** – Displays hero section, trusted statistics, and trending apps.  
+- 🔍 **Apps Page** – Search, filter, and view all applications with download/rating info.  
+- 📱 **App Details Page** – Shows detailed information, download size, and rating charts.  
+- ⚙️ **Installation System** – Simulate app install/uninstall using `localStorage`.  
+- 🌟 **Installed Page** – View and manage all installed apps.  
+- 🚫 **404 Page** – Custom-designed not-found page for broken routes.  
+- ⚡ **Dynamic Loading** – Loader animation on navigation transitions.  
+- 🔔 **Toast Notifications** – Beautiful feedback for user actions.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧩 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Category | Technologies |
+|-----------|---------------|
+| **Frontend Library** | React 18 (with Hooks) |
+| **Routing** | React Router DOM |
+| **Styling** | Tailwind CSS + DaisyUI |
+| **Charts** | Recharts |
+| **HTTP Client** | Axios |
+| **Icons** | Lucide React |
+| **Notifications** | React Toastify |
+| **Local Storage Utility** | Custom JS Utility Functions |
+
+---
+
+👨‍💻 Author
+
+Md Iftakar Ahmed 
+🛠️ Web Developer
+📧 aiftekar798@gmail.com
+
+📍 Baltimore
+
+
+🪪 License
+
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute it with attribution.
+
